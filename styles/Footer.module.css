@@ -1,4 +1,4 @@
-/* .container {
+.container {
   height: calc(100vh - 100px);
   background-color: #222;
   display: flex;
@@ -54,4 +54,4 @@
   .text {
     font-size: 20px;
   }
-} */
+}
